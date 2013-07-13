@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="arrow_pressed.svg"
-   inkscape:export-filename="C:\Users\RyanAwesome\Documents\portalsdk\src\arrow_pressed.png"
+   inkscape:export-filename="C:\Users\RyanAwesome\Documents\source sdk\src\arrow_pressed.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -62,7 +62,7 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="fill:#cccccc;stroke:none"
+       style="fill:#666666;stroke:none"
        d="m 16,1033.5622 16,0 0,6.4 -16,0 0,6.4 -16,-9.6 16,-9.6 z"
        id="path2989"
        inkscape:connector-curvature="0"
