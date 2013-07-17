@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="back.svg"
-   inkscape:export-filename="C:\Users\RyanAwesome\Documents\portalsdk\src\web_pressed.png"
+   inkscape:export-filename="C:\Users\RyanAwesome\Documents\portalsdk\src\info.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="-0.19454655"
-     inkscape:cy="19.643237"
+     inkscape:zoom="16"
+     inkscape:cx="27.083429"
+     inkscape:cy="20.517706"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,15 +59,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <path
-       style="fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 16 0 C 7.163444 1.7763568e-015 2.6212348e-018 7.163444 0 16 C 0 24.836556 7.163444 32 16 32 C 24.836556 32 32 24.836556 32 16 C 32 7.163444 24.836556 -3.5500924e-015 16 0 z M 16 2 C 23.732001 2 30 8.2679987 30 16 C 30 23.732001 23.732001 30 16 30 C 8.2679987 30 2 23.732001 2 16 C 2 8.2679987 8.2679987 2 16 2 z "
-       transform="translate(0,1020.3622)"
-       id="path2987" />
-    <path
-       style="fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 16 6 C 11.892382 6 8.3514803 8.458556 6.8125 12 L 8 12 L 11 18 L 14 12 L 16 12 L 18 12 L 21 18 L 24 12 L 25.1875 12 C 23.64852 8.458556 20.107618 6 16 6 z M 16 12 L 11 22 L 6.46875 12.9375 C 6.157779 13.903794 6 14.93032 6 16 C 6 21.522847 10.477153 26 16 26 C 21.522847 26 26 21.522847 26 16 C 26 14.93032 25.842221 13.903794 25.53125 12.9375 L 21 22 L 16 12 z "
-       transform="translate(0,1020.3622)"
-       id="path3835" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.75791168px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6820;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-0.8018775"
+       y="1045.2268"
+       id="text3798"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3800"
+         x="-0.8018775"
+         y="1045.2268"
+         style="font-weight:bold;-inkscape-font-specification:Arial Bold">@</tspan></text>
   </g>
 </svg>
